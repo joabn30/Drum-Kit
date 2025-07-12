@@ -1,0 +1,2 @@
+This is a simple and interactive web application that I designed using HTML, CSS, and JavaScript. The site features a virtual drum kit that allows users to either click on drum buttons or press specific keys on their keyboard to trigger corresponding drum sounds.
+JavaScript event listeners and objects are used to map each interaction to its respective audio file, providing a fun and responsive user experience.
